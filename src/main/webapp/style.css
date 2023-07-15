@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+#div {
+	min-height: 500px;
+	height: auto !important;
+	height: 500px;
+}
+
+.centered-img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+}
+
+#h4 {
+	color: #3331C6;
+	text-align: center;
+	margin: 100px, 300px, 300px, 300px;
+}
+
+#h1 {
+  color:#302EBB;
+  font-family:sans-serif;
+  font-size:2em;
+  margin-left: 100px; 
+
+}
+
+#ct {
+color: #3331C6;
+}
+
+
+
+#row {
+margin-top: 250px;
+}
+
+#h1random {
+  color:#302EBB;
+  font-family:sans-serif;
+  font-size:2em;
+  margin-left: 100px; 
+
+}
